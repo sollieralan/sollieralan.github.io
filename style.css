@@ -5,19 +5,13 @@
 	-moz-transition-property: all;
   -moz-transition-timing-function: cubic-bezier(100,50,21,6);
 }
-
 body{
   background:#1b1b2b;
   padding:75px;
   text-align:center;
   font-family: 'Oswald', sans-serif;
 }
-
-h1{
-  color:#c0c0c0;
-  font-weight:100;
 }
-
 .btn{
   color:#999;
   background:rgba(0, 0, 0, 0.5);
