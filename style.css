@@ -1,4 +1,4 @@
-*{
+* {
 	-webkit-transition-property: all;
 	-webkit-transition-duration: .2s;
   -moz-transition-timing-function: cubic-bezier(100,50,21,6);
@@ -7,16 +7,17 @@
 }
 
 body{
-  background:#66ccff;
+  background:#1b1b2b;
   padding:75px;
   text-align:center;
   font-family: 'Oswald', sans-serif;
 }
+
 h1{
-  color:#000000;
+  color:#c0c0c0;
   font-weight:100;
 }
-}
+
 .btn{
   color:#999;
   background:rgba(0, 0, 0, 0.5);
@@ -30,9 +31,9 @@ h1{
 .btn:hover{
   border:none;
   background:rgba(0, 0, 0, 0.4);
-  background:#1b1b2b;
+  background:#fff;
   padding:20px 20px; #000;
-  color:#ffffff;
+  color:#1b1b1b;
 }
 
 .footer{
