@@ -7,20 +7,19 @@
 }
 
 body{
-  background:blue;
-  padding:75px;
+  background: content-box radial-gradient(skyblue,crimson );
+  padding:80px;
   text-align:center;
   font-family: 'Oswald', sans-serif;
 }
 
 h1{
-  color:#c0c0c0;
-  font-weight:100;
+  padding:20px;
+  
 }
-
 .btn{
-  color:#999;
-  background:rgba(0, 0, 0, 0.5);
+  color:#566573;
+  background:#E5E8E8;
   padding:10px 20px;
   font-size:12px;
   text-decoration:none;
@@ -34,18 +33,4 @@ h1{
   background:#fff;
   padding:20px 20px; #000;
   color:#1b1b1b;
-}
-
-.footer{
-  font-size:8px;
-  color:#fff;
-  clear:both;
-  display:block;
-  letter-spacing:5px;
-  border:1px solid #fff;
-  padding:5px;
-  text-decoration:none;
-  width:210px;
-  margin:auto;
-  margin-top:400px;
 }
