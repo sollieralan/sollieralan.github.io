@@ -31,7 +31,7 @@ h1{
 .btn:hover{
   border:none;
   background:rgba(0, 0, 0, 0.4);
-  background:#fff;
+  background:#ffffff;
   padding:20px 20px; #000;
   color:#1b1b1b;
 }
