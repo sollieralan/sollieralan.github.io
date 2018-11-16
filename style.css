@@ -1,36 +1,31 @@
-* {
+*{
 	-webkit-transition-property: all;
 	-webkit-transition-duration: .2s;
   -moz-transition-timing-function: cubic-bezier(100,50,21,6);
 	-moz-transition-property: all;
   -moz-transition-timing-function: cubic-bezier(100,50,21,6);
 }
-
 body{
-  background: content-box radial-gradient(skyblue,crimson );
+  color:#c0c0c0;
+  background:#1b1b2b;
   padding:80px;
-  text-align:center;
-  font-family: 'Oswald', sans-serif;
+  font-family: 'Oswald';
 }
-
 h1{
   padding:20px;
   
 }
 .btn{
-  color:black;
-  background:white ;
+  color:#999;
+  background:rgba(0, 0, 0, 0.5);
   padding:10px 20px;
-  font-size:12px;
+  font-size:14px;
   text-decoration:none;
   letter-spacing:2px;
   text-transform:uppercase;
 }
 
 .btn:hover{
-  border:none;
-  background:rgba(0, 0, 0, 0.4);
   background:#fff;
-  padding:20px 20px; #000;
-  color:#1b1b1b;
+  padding:20px 22px;
 }
