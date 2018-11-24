@@ -1,5 +1,5 @@
 *{
-	-webkit-transition-duration: .3s;
+  -webkit-transition-duration: .3s;
 }
 body{
   color:#FFFFFF;
@@ -27,6 +27,12 @@ h1{
   padding:20px; 
 }
 		
-a{ text-decoration:none;
-   color:red;
+
+a{
+  text-decoration:none;
+  color:red;
+}
+
+img{
+  border-radius: 4px;
 }
