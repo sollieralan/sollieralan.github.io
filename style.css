@@ -10,7 +10,7 @@ body{
 .btn{
   color:#FFFFFF;
   background:rgba(0, 0, 0, 0.5);
-  padding:10px 17px;
+  padding:10px 10px;
   font-size:16px;
   text-decoration:none;
   letter-spacing:2px;
@@ -20,7 +20,7 @@ body{
 .btn:hover{
   color:#000000;
   background:#fff;
-  padding:15px 20px;
+  padding:15px 15px;
 }
 
 h1{
